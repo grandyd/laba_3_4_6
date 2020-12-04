@@ -1,0 +1,28 @@
+﻿  main.cpp
+  MyDate.cpp
+  MyString.cpp
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(22,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(32,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(186,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(199,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(263,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(283,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(317,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(321,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(334,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(338,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(351,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(465,40): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(469,40): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(473,40): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(477,37): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(481,37): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(507,41): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(511,41): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(515,41): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(519,38): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(523,38): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Георгий\source\repos\laba_3_4_6\laba_3_4_6\MyString.cpp(559,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Vector.cpp
+  Создание кода...
+  laba_3_4_6.vcxproj -> C:\Users\Георгий\source\repos\laba_3_4_6\Debug\laba_3_4_6.exe
